@@ -8,6 +8,7 @@ I am Shakhrukh from Uzbekistan and I am a reaction developer. I really enjoy lea
 
 * ⚛️ React js,
 * 💻 Next js
+* 💻 tailwend css
 * 💻 HTML, CSS, JS 
 * 💻 Bootstrap, Sass
  
