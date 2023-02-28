@@ -1,8 +1,8 @@
 ![developer](https://github.com/otabekovshoxruh/otabekovshoxruh/blob/main/gitt%20hub%20bunerr.gif)
 
-### <a href="https://www.instagram.com/">Hi there</a>  👋 SHokhrukh otabekov
+### Hi there  👋 SHokhrukh otabekov
 
-I am Shakhrukh from Uzbekistan and I am a reaction developer. I really enjoy learning languages and frameworks like Next js React js. I am currently a student of astrum it academy	
+I am Shakhrukh from Uzbekistan and I am a react developer. I really enjoy learning languages and frameworks like Next js React js. I am currently a student of astrum it academy	
 
 ### Skills and Experiencs
 
@@ -12,5 +12,6 @@ I am Shakhrukh from Uzbekistan and I am a reaction developer. I really enjoy lea
 * 💻 HTML, CSS, JS 
 * 💻 Bootstrap
  
+ <h1>MY <a href="https://www.instagram.com/">Instagram</a></h1>
 
 
